@@ -1,2 +1,2 @@
 # leetCode
-http://leetcode.com problems solving code
+http://leetcode.com practice
